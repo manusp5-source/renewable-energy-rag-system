@@ -1,0 +1,52 @@
+{
+  "test_queries": [
+    {
+      "query": "What is the optimal tilt angle for solar panels in Spain?",
+      "expected_keywords": ["30", "35", "degrees", "spain", "latitude"],
+      "category": "solar_installation"
+    },
+    {
+      "query": "How do photovoltaic systems work?",
+      "expected_keywords": ["sunlight", "electricity", "convert", "photovoltaic", "semiconductor"],
+      "category": "solar_technology"
+    },
+    {
+      "query": "What are the main components of a wind turbine?",
+      "expected_keywords": ["rotor", "blades", "generator", "tower", "nacelle"],
+      "category": "wind_technology"
+    },
+    {
+      "query": "What is the capacity factor of wind energy?",
+      "expected_keywords": ["capacity", "factor", "wind", "30", "40", "percent"],
+      "category": "wind_performance"
+    },
+    {
+      "query": "How is solar energy stored?",
+      "expected_keywords": ["battery", "storage", "lithium", "grid", "backup"],
+      "category": "energy_storage"
+    }
+  ],
+  "evaluation_metrics": {
+    "target_accuracy": 0.90,
+    "target_response_time": 3.0,
+    "min_relevance_score": 0.75
+  }
+}
+```
+
+---
+
+## ✅ **CÓDIGO PYTHON COMPLETO - CHECKLIST**
+```
+✅ config.py - Configuration management
+✅ document_loader.py - Multi-format document loading
+✅ text_processor.py - Intelligent chunking
+✅ embeddings_manager.py - OpenAI embeddings
+✅ vector_store.py - ChromaDB vector store
+✅ rag_chain.py - LangChain RAG implementation
+✅ fastapi_app.py - Complete REST API
+✅ test_rag.py - Tests + evaluation metrics
+✅ .env.example - Environment template
+✅ README.md - Complete documentation
+✅ requirements.txt - Dependencies
+✅ test_queries.json - Test dataset

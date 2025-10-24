@@ -1,0 +1,42 @@
+Solar Energy Technical Documentation
+
+Introduction to Photovoltaic Systems
+
+Solar photovoltaic (PV) systems convert sunlight directly into electricity using semiconductor materials. When photons from sunlight strike a PV cell, they excite electrons and create an electric current.
+
+Optimal Tilt Angle for Solar Panels
+
+The optimal tilt angle for solar panels depends on the geographical latitude of the installation site. For locations in Spain, particularly in Madrid and southern regions, the recommended tilt angle is between 30 and 35 degrees from the horizontal.
+
+This angle maximizes annual energy production by optimizing the angle of incidence of sunlight throughout the year. In summer months, the sun is higher in the sky, while in winter it is lower. A fixed tilt angle of 30-35 degrees provides the best compromise.
+
+Key Factors Affecting Solar Panel Performance
+
+1. Temperature: Solar panel efficiency decreases as temperature increases. Typical crystalline silicon panels lose approximately 0.4-0.5% efficiency per degree Celsius above 25°C.
+
+2. Shading: Even partial shading can significantly reduce system output. Modern systems use bypass diodes and optimizers to minimize shading losses.
+
+3. Orientation: In the northern hemisphere, panels should face south for maximum energy production. East-west orientations can be used for systems prioritizing morning or evening generation.
+
+4. Maintenance: Regular cleaning and inspection ensure optimal performance. Dust and debris can reduce output by 5-15% depending on environmental conditions.
+
+System Components
+
+A typical grid-connected PV system includes:
+- Solar panels (modules)
+- Inverter (converts DC to AC)
+- Mounting structure
+- Monitoring system
+- Protection devices (circuit breakers, surge protection)
+
+Energy Production Estimates
+
+A well-designed 5 kW solar system in southern Spain can produce approximately 7,500-8,500 kWh annually, depending on specific location and system design. This represents a capacity factor of approximately 17-19%.
+
+Regulatory Framework in Spain
+
+Solar installations in Spain must comply with the Royal Decree 244/2019, which establishes administrative, technical, and economic conditions for self-consumption. Systems under 100 kW can benefit from simplified registration procedures.
+
+Environmental Benefits
+
+Solar energy systems reduce carbon emissions, with each kWh of solar electricity avoiding approximately 0.4 kg of CO2 compared to conventional grid electricity in Spain. A typical residential 5 kW system can offset 3-3.5 tons of CO2 annually.
